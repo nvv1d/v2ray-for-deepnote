@@ -40,7 +40,6 @@ wget -N https://raw.githubusercontent.com/Misaka-blog/v2ray-for-deepnote/main/de
 端口：443
 UUID/密码：8d4a8f5e-c2f7-4c1b-b8c0-f8f5a9b6c384 或自己定义的UUID
 额外ID：0
-Shadowsocks加密方式：chacha20-ietf-poly1305
 传输协议：ws
 伪装域名：xxxxx.deepnoteproject.com
 路径：/
