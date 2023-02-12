@@ -2,7 +2,7 @@
 
 ## 项目特点
 
-* 本项目用于在 [Deepnote](https://deepnote.com/) 免费服务上部署 vmess / vless节点
+* 本项目用于在 [Deepnote](https://deepnote.com/) 免费服务上部署 vmess / vless 节点
 * 部署完成如发现不能上网，请检查域名是否被墙，可使用 Cloudflare CDN 或者 worker 解决。
 
 ## 部署
